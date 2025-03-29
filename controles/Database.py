@@ -9,7 +9,7 @@ class Orders:
                 host='localhost',
                 port=3306,
                 user='root',
-                passwd='M@m@rsh!a1384_',
+                passwd='secret',
                 charset='utf8',
                 database='Orders',
                 autocommit=True
