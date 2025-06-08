@@ -1,9 +1,15 @@
 Company Information Management System
+
 A package for designing a software for managing personal information of a company's consumers. Among the options of this software:
-Add information
-Search
-Edit
-Delete
+
+1.Add information
+
+2.Search
+
+3.Edit
+
+4.Delete
+
 Maintaining this information on the mysql server.
 This software is written with a PyQt graphical interface.
 And inheritance and object oriented are also used to link separate parts of the program in the controller folder.
