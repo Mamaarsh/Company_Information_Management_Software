@@ -2,7 +2,7 @@
 
 A package for designing a software for managing personal information of a company's consumers. Among the options of this software:
 
-1.Add information(also have add exel file options)
+1.Add information( It also has the ability to add information from an Excel file. )
 
 2.Search
 
