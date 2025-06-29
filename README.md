@@ -19,9 +19,7 @@ A desktop application for managing company and individual records using a user-f
 
 | Main Window | Add Person Form | Search Company Form |
 |-------------|------------------|----------------------|
-| ![Main](![image](https://github.com/user-attachments/assets/5b2c13b5-4e9d-45e8-ac65-3a9b4864f00b)
-| ![Add Person](![image](https://github.com/user-attachments/assets/bcb7cb59-feb8-4193-9975-5504d1fb3d22)
-| ![Search Company](![image](https://github.com/user-attachments/assets/2b75db3d-a8f8-499f-b6a1-988a696647d5)
+| ![Main](![image](https://github.com/user-attachments/assets/5b2c13b5-4e9d-45e8-ac65-3a9b4864f00b) | ![Add Person](![image](https://github.com/user-attachments/assets/bcb7cb59-feb8-4193-9975-5504d1fb3d22) | ![Search Company](![image](https://github.com/user-attachments/assets/2b75db3d-a8f8-499f-b6a1-988a696647d5)
 |
 
 ---
